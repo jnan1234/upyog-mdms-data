@@ -1,10 +1,10 @@
 {
-  "tenantId": "pg",
+  "tenantId": "ap",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "pg.citya",
-      "name": "City A",
-      "description": "City A",
+      "code": "ap.citya",
+      "name": "Tirupati",
+      "description": "Tirupati",
       "pincode": [143001,143002,143003,143004,143005],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -17,11 +17,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "City A",
+        "name": "Tirupati",
         "localName": null,
         "districtCode": "CITYA",
         "districtName": null,
-        "districtTenantCode": "pg.citya",
+        "districtTenantCode": "ap.citya",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
@@ -35,8 +35,8 @@
       "contactNumber": "001-2345876"
     },
     {
-      "code": "pg.cityb",
-      "name": "City B",
+      "code": "ap.cityb",
+      "name": "Vijayawada",
       "description": null,
       "pincode": [143006,143007,143008,143009,143010],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -51,11 +51,11 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City B",
+        "name": "Vijayawada",
         "localName": null,
         "districtCode": "CITYB",
         "districtName": null,
-        "districtTenantCode": "pg.cityb",
+        "districtTenantCode": "ap.cityb",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 74.8722642,
@@ -70,8 +70,8 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.cityc",
-      "name": "City C",
+      "code": "ap.cityc",
+      "name": "Kadapa",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -85,11 +85,11 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City C",
+        "name": "Kadapa",
         "localName": null,
         "districtCode": "CITYC",
         "districtName": null,
-        "districtTenantCode": "pg.cityc",
+        "districtTenantCode": "ap.cityc",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 73.8722642,
@@ -104,8 +104,8 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.cityd",
-      "name": "City D",
+      "code": "ap.cityd",
+      "name": "Srikakulam",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -119,11 +119,11 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City D",
+        "name": "Srikakulam",
         "localName": null,
         "districtCode": "CITYD",
         "districtName": null,
-        "districtTenantCode": "pg.cityd",
+        "districtTenantCode": "ap.cityd",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.8722642,
@@ -138,8 +138,8 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.citye",
-      "name": "City E",
+      "code": "ap.citye",
+      "name": "Chittor",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -153,11 +153,11 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City E",
+        "name": "Chittor",
         "localName": null,
         "districtCode": "CITYE",
         "districtName": null,
-        "districtTenantCode": "pg.citye",
+        "districtTenantCode": "ap.citye",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 76.8722642,
@@ -172,7 +172,7 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg",
+      "code": "ap",
       "name": "State",
       "description": "State",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
@@ -181,7 +181,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "pg.state@gmail.com",
+      "emailId": "ap.state@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 5.00 PM"
       },
@@ -190,7 +190,7 @@
         "localName": "Demo State",
         "districtCode": "0",
         "districtName": "State",
-        "districtTenantCode": "pg",
+        "districtTenantCode": "ap",
         "regionName": "State",
         "ulbGrade": "ST",
         "longitude": 75.3412,
