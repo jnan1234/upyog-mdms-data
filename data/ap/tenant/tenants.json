@@ -2,10 +2,10 @@
   "tenantId": "ap",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "ap.citya",
-      "name": "Tirupati",
-      "description": "Tirupati",
-      "pincode": [143001,143002,143003,143004,143005],
+      "code": "ap.Anantapur",
+      "name": "Anantapur",
+      "description": "Anantapur",
+      "pincode": [500001,500002,500003,500004,500005],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
@@ -17,7 +17,7 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Tirupati",
+        "name": "Anantapur",
         "localName": null,
         "districtCode": "CITYA",
         "districtName": null,
