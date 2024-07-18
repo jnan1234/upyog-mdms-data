@@ -1,7 +1,8 @@
 {
   "tenantId": "ap",
   "moduleName": "tenant",
-  "tenants": [{
+  "tenants": [
+    {
       "code": "ap.Anantapur",
       "name": "Anantapur",
       "description": "Anantapur",
@@ -12,40 +13,40 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "citya@gmail.com",
+      "emailId": "anantapur@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
         "name": "Anantapur",
         "localName": null,
-        "districtCode": "CITYA",
+        "districtCode": "Anantapur",
         "districtName": null,
-        "districtTenantCode": "ap.citya",
+        "districtTenantCode": "ap.Anantapur",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
-        "longitude": 75.5761829,
-        "latitude": 31.3260152,
+        "longitude": 77.6006,
+        "latitude": 14.6819,
         "shapeFileLocation": null,
         "captcha": null,
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "City A Municipal Corporation",
+      "address": "Anantapur Municipal Corporation",
       "contactNumber": "001-2345876"
     },
     {
-      "code": "ap.cityb",
-      "name": "Vijayawada",
+      "code": "ap.Hindupur",
+      "name": "Hindupur",
       "description": null,
-      "pincode": [143006,143007,143008,143009,143010],
+      "pincode": [500006,500007,500008,500009,500010],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "cityb@gmail.com",
+      "emailId": "Hindupur@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
@@ -58,14 +59,14 @@
         "districtTenantCode": "ap.cityb",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
-        "longitude": 74.8722642,
-        "latitude": 31.6339793,
+        "longitude": 77.5009,
+        "latitude": 13.8223,
         "shapeFileLocation": null,
         "captcha": null,
         "code": "107",
         "ddrName": "DDR B"
       },
-      "address": "City B Municipal Corporation Address",
+      "address": "Hindupur Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
