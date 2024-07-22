@@ -1,17 +1,17 @@
 {
-    "tenantId": "pg",
+    "tenantId": "ap",
     "moduleName": "TradeLicense",
     "ReminderPeriods": [
       {
-        "tenantId": "pg.citya",
+        "tenantId": "ap.citya",
         "reminderInterval": 691200000
       },
       {
-        "tenantId": "pg.cityb",
+        "tenantId": "ap.cityb",
         "reminderInterval": 12345
       },
       {
-        "tenantId": "pg.cityc",
+        "tenantId": "ap.cityc",
         "reminderInterval": 12345  
       }
     ]
