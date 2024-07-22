@@ -3,54 +3,54 @@
     "moduleName": "Chatbot",
     "CityLocaleMasterData": [
         {
-            "cityName": "City A",
+            "cityName": "anantapur",
             "locale": "in_en",
-            "tenantId": "ap.citya"
+            "tenantId": "ap.anantapur"
         },
         {
             "cityName": "शहर अ",
             "locale": "in_hi",
-            "tenantId": "ap.citya"
+            "tenantId": "ap.anantapur"
         },
         {
-            "cityName": "City B",
+            "cityName": "hindupur",
             "locale": "in_en",
-            "tenantId": "ap.cityb"
+            "tenantId": "ap.hindupur"
         },
         {
             "cityName": "शहर ब",
             "locale": "in_hi",
-            "tenantId": "ap.cityb"
+            "tenantId": "ap.hindupur"
         },
         {
-            "cityName": "City C",
+            "cityName": "ysrkadapa",
             "locale": "in_en",
-            "tenantId": "ap.cityc"
+            "tenantId": "ap.ysrkadapa"
         },
         {
             "cityName": "शहर स",
             "locale": "in_hi",
-            "tenantId": "ap.cityc"
+            "tenantId": "ap.ysrkadapa"
         },
         {
-            "cityName": "City D",
+            "cityName": "visakhapatnam",
             "locale": "in_en",
-            "tenantId": "ap.cityd"
+            "tenantId": "ap.visakhapatnam"
         },
         {
             "cityName": "शहर डी",
             "locale": "in_hi",
-            "tenantId": "ap.cityd"
+            "tenantId": "ap.visakhapatnam"
         },
         {
-            "cityName": "City E",
+            "cityName": "nellore",
             "locale": "in_en",
-            "tenantId": "ap.citye"
+            "tenantId": "ap.nellore"
         },
         {
             "cityName": "शहर ई",
             "locale": "in_hi",
-            "tenantId": "ap.citye"
+            "tenantId": "ap.nellore"
         }
     ]
 }
