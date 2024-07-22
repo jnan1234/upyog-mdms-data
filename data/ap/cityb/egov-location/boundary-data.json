@@ -1,5 +1,5 @@
 {
-  "tenantId": "ap.cityb",
+  "tenantId": "ap.hindupur",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "City B",
-        "localname": "City B",
+        "name": "hindupur",
+        "localname": "hindupur",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "ap.cityb",
+        "code": "ap.hindupur",
         "children":[
           {
             "id": 2,
