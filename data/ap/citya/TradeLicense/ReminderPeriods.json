@@ -1,17 +1,17 @@
 {
-    "tenantId": "ap.citya",
+    "tenantId": "ap.anantapur",
     "moduleName": "TradeLicense",
     "ReminderPeriods": [
       {
-        "tenantId": "ap.citya",
+        "tenantId": "ap.anantapur",
         "reminderInterval": 12345
       },
       {
-        "tenantId": "ap.cityb",
+        "tenantId": "ap.hindupur",
         "reminderInterval": 12345
       },
       {
-        "tenantId": "ap.cityc",
+        "tenantId": "ap.ysrkadapa",
         "reminderInterval": 12345  
       }
     ]
