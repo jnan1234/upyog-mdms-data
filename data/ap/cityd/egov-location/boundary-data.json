@@ -1,5 +1,5 @@
 {
-  "tenantId": "ap.cityd",
+  "tenantId": "ap.visakhapatnam",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "City D",
-        "localname": "City D",
+        "name": "visakhapatnam",
+        "localname": "visakhapatnam",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "ap.cityd",
+        "code": "ap.visakhapatnam",
         "children":[
           {
             "id": 2,
