@@ -1,5 +1,5 @@
 {
-    "tenantId": "pg.citya",
+    "tenantId": "ap.citya",
     "moduleName": "FSM",
     "PeriodicService":[
 	{
