@@ -3,15 +3,15 @@
     "moduleName": "DocumentUploader",
     "UlbLevelCategories": [
       {
-        "ulb": "ap.citya",
+        "ulb": "ap.anantapur",
         "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
       },
       {
-        "ulb": "ap.cityb",
+        "ulb": "ap.hindupur",
         "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
       },
       {
-        "ulb": "ap.cityc",
+        "ulb": "ap.ysrkadapa",
         "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
       }
     ]
