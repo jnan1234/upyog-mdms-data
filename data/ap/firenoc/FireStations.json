@@ -3,28 +3,28 @@
   "moduleName": "firenoc",
   "FireStations": [
     {
-      "code": "FS_CITYA_01",
-      "baseTenantId": "ap.citya",
+      "code": "FS_anantapur_01",
+      "baseTenantId": "ap.anantapur",
       "active": true
     },
     {
-      "code": "FS_CITYB_01",
-      "baseTenantId": "ap.cityb",
+      "code": "FS_hindupur_01",
+      "baseTenantId": "ap.hindupur",
       "active": true
     },
     {
-      "code": "FS_CITYC_01",
-      "baseTenantId": "ap.cityc",
+      "code": "FS_ysrkadapa_01",
+      "baseTenantId": "ap.ysrkadapa",
       "active": true
     },
     {
-      "code": "FS_CITYD_01",
-      "baseTenantId": "ap.cityd",
+      "code": "FS_visakhapatnam_01",
+      "baseTenantId": "ap.visakhapatnam",
       "active": true
     },
     {
-      "code": "FS_CITYE_01",
-      "baseTenantId": "ap.citye",
+      "code": "FS_nellore_01",
+      "baseTenantId": "ap.nellore",
       "active": true
     }
   ]
