@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg.citye",
+  "tenantId": "ap.citye",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.citye",
+        "code": "ap.citye",
         "children":[
           {
             "id": 2,
