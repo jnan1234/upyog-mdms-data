@@ -1,16 +1,16 @@
 {
-    "tenantId": "pg.cityc",
+    "tenantId": "ap.cityc",
     "moduleName": "BillingService",
     "GLCode": [
         {
             "code": "BIRTH_CERT",
             "glcode": null,
-            "cb": "pg.cityc"
+            "cb": "ap.cityc"
         },
         {
             "code": "DEATH_CERT",
             "glcode": null,
-            "cb": "pg.cityc"
+            "cb": "ap.cityc"
         }
     ]
 }
