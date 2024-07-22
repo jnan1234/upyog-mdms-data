@@ -8,7 +8,7 @@
             "tenantId": "ap.anantapur"
         },
         {
-            "cityName": "शहर अ",
+            "cityName": "अनंतपुर",
             "locale": "in_hi",
             "tenantId": "ap.anantapur"
         },
@@ -18,7 +18,7 @@
             "tenantId": "ap.hindupur"
         },
         {
-            "cityName": "शहर ब",
+            "cityName": "हिन्दूपुर",
             "locale": "in_hi",
             "tenantId": "ap.hindupur"
         },
@@ -28,7 +28,7 @@
             "tenantId": "ap.ysrkadapa"
         },
         {
-            "cityName": "शहर स",
+            "cityName": "वाईएसआर कडपा",
             "locale": "in_hi",
             "tenantId": "ap.ysrkadapa"
         },
@@ -38,7 +38,7 @@
             "tenantId": "ap.visakhapatnam"
         },
         {
-            "cityName": "शहर डी",
+            "cityName": "विशाखपटनम",
             "locale": "in_hi",
             "tenantId": "ap.visakhapatnam"
         },
@@ -48,7 +48,7 @@
             "tenantId": "ap.nellore"
         },
         {
-            "cityName": "शहर ई",
+            "cityName": "नेल्लौर",
             "locale": "in_hi",
             "tenantId": "ap.nellore"
         }
