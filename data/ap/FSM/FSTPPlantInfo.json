@@ -4,25 +4,25 @@
     "FSTPPlantInfo": [
         {
             "PlantCode": "CTA001",
-            "PlantName": "CityA FSTP",
+            "PlantName": "anantapur FSTP",
             "active": true,
             "PlantType": "FSTP",
-            "PlantLocation": "CityA",
+            "PlantLocation": "anantapur",
             "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
             "PlantOperationalTimings": "10.00am-08.00pm",
             "PlantOperationalCapacityKLD": "50",
-            "ULBS": "ap.citya,ap.cityb"
+            "ULBS": "ap.anantapur,ap.hindupur"
         },
         {
             "PlantCode": "CTC002",
-            "PlantName": "CityC SeTPP",
+            "PlantName": "ysrkadapa SeTPP",
             "active": true,
             "PlantType": "SeTP",
-            "PlantLocation": "CityC",
+            "PlantLocation": "ysrkadapa",
             "PlusCode": "MPFQ+V2 Sahibzada Ajit Singh Nagar, Punjab",
             "PlantOperationalTimings": "10.00am-06.00pm",
             "PlantOperationalCapacityKLD": "100",
-            "ULBS": "ap.cityc,ap.cityd,ap.citye"
+            "ULBS": "ap.ysrkadapa,ap.visakhapatnam,ap.nellore"
         }
     ]
 }
