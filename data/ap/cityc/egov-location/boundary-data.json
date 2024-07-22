@@ -1,5 +1,5 @@
 {
-  "tenantId": "ap.cityc",
+  "tenantId": "ap.ysrkadapa",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "City C",
-        "localname": "City C",
+        "name": "ysrkadapa",
+        "localname": "ysrkadapa",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "ap.cityc",
+        "code": "ap.ysrkadapa",
         "children":[
           {
             "id": 2,
