@@ -1,5 +1,5 @@
 {
-  "tenantId": "ap.citye",
+  "tenantId": "ap.nellore",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "City E",
-        "localname": "City E",
+        "name": "nellore",
+        "localname": "nellore",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "ap.citye",
+        "code": "ap.nellore",
         "children":[
           {
             "id": 2,
