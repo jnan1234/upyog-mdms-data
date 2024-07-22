@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "ap.citya",
-      "districtCode": "CITYA",
+      "code": "ap.anantapur",
+      "districtCode": "anantapur",
       "population": "156716",
       "malePopulation": "82045",
       "femalePopultion": "74671",
@@ -13,8 +13,8 @@
       "languagesSpoken": ["PN", "HN", "EN"]
     },
     {
-      "code": "ap.cityb",
-      "districtCode": "CITYB",
+      "code": "ap.hindupur",
+      "districtCode": "hindupur",
       "population": "116449",
       "malePopulation": "62554",
       "femalePopultion": "53895",
@@ -24,8 +24,8 @@
     },
   
     {
-      "code": "ap.cityc",
-      "districtCode": "CITYC",
+      "code": "ap.ysrkadapa",
+      "districtCode": "ysrkadapa",
       "population": "17331",
       "malePopulation": "10521",
       "femalePopultion": "6810",
@@ -34,8 +34,8 @@
       "languagesSpoken": ["GR", "PN", "HN"]
     },
     {
-      "code": "ap.cityd",
-      "districtCode": "CITYD",
+      "code": "ap.visakhapatnam",
+      "districtCode": "visakhapatnam",
       "population": "12507",
       "malePopulation": "6810",
       "femalePopultion": "5697",
@@ -44,8 +44,8 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "ap.citye",
-      "districtCode": "CITYE",
+      "code": "ap.nellore",
+      "districtCode": "nellore",
       "population": "12507",
       "malePopulation": "6810",
       "femalePopultion": "5697",
