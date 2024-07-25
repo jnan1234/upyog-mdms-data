@@ -1,0 +1,621 @@
+{
+  "tenantId": "ap",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "QuickPayLinks",
+      "code": "QuickPayLinks",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        }
+      ]
+    },
+   {
+      "module": "Finance",
+      "code": "Finance",
+      "active": false,
+      "order":4,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "FireNoc",
+      "code": "FireNoc",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "pg.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "active": false,
+      "order":4,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        }
+      ]
+    },
+    {
+      "module": "OBPS",
+      "code": "OBPS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "Receipts",
+      "code": "Receipts",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "NOC",
+      "code": "NOC",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order":6,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "Engagement",
+      "code": "Engagement",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "CommonPT",
+      "code": "CommonPT",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "NDSS",
+      "code": "NDSS",
+      "active": true,
+      "order":5,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "WS",
+      "code": "WS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/WS.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        }
+      ]
+    },
+    {
+      "module": "SW",
+      "code": "SW",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        }
+      ]
+    },
+    {
+      "module": "BillAmendment",
+      "code": "BillAmendment",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        }
+      ]
+    },
+    {
+      "module": "Bills",
+      "code": "Bills",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        }
+      ]
+    },
+    {
+      "module": "Birth",
+      "code": "Birth",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "Death",
+      "code": "Death",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    },
+    {
+      "module": "PTR",
+      "code": "PTR",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "ap.anantapur"
+        },
+        {
+          "code": "ap.hindupur"
+        },
+        {
+          "code": "ap.ysrkadapa"
+        },
+        {
+          "code": "ap.visakhapatnam"
+        },
+        {
+          "code": "ap.nellore"
+        }
+      ]
+    }
+  ]
+}

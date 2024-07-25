@@ -1,0 +1,8 @@
+{
+    "tenantId": "ap",
+    "moduleName": "tenant",
+    "reassessmentconfig":[ {
+        "tenant": ["ap.cityb"],
+        "financialyear": "2021-22"
+    }]
+}

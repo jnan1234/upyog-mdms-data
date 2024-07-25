@@ -1,0 +1,18 @@
+{
+  "tenantId": "ap",
+  "moduleName": "tenant",
+  "assessmentconfig": [
+    {
+      "tenant": "ap.hindupur",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented": true
+    },
+     {
+      "tenant": "ap.anantapur",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented": true
+    }
+  ]
+}

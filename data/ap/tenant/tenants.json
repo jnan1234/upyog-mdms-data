@@ -1,0 +1,208 @@
+{
+  "tenantId": "ap",
+  "moduleName": "tenant",
+  "tenants": [
+    {
+      "code": "ap.anantapur",
+      "name": "anantapur",
+      "description": "anantapur",
+      "pincode": [500001,500002,500003,500004,500005],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "anantapur@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "anantapur",
+        "localName": null,
+        "districtCode": "anantapur",
+        "districtName": null,
+        "districtTenantCode": "ap.anantapur",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 77.6006,
+        "latitude": 14.6819,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1013",
+        "ddrName": "DDR A"
+      },
+      "address": "anantapur Municipal Corporation",
+      "contactNumber": "001-2345876"
+    },
+    {
+      "code": "ap.hindupur",
+      "name": "hindupur",
+      "description": null,
+      "pincode": [500006,500007,500008,500009,500010],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "hindupur@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "hindupur",
+        "localName": null,
+        "districtCode": "hindupur",
+        "districtName": null,
+        "districtTenantCode": "ap.hindupur",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 77.5009,
+        "latitude": 13.8223,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "107",
+        "ddrName": "DDR B"
+      },
+      "address": "hindupur Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "ap.ysrkadapa",
+      "name": "ysrkadapa",
+      "description": null,
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "ysrkadapa@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "ysrkadapa",
+        "localName": null,
+        "districtCode": "ysrkadapa",
+        "districtName": null,
+        "districtTenantCode": "ap.ysrkadapa",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 78.8383,
+        "latitude": 14.5767,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "108",
+        "ddrName": "DDR C"
+      },
+      "address": "ysrkadapa Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "ap.visakhapatnam",
+      "name": "visakhapatnam",
+      "description": null,
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "visakhapatnam@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "visakhapatnam",
+        "localName": null,
+        "districtCode": "visakhapatnam",
+        "districtName": null,
+        "districtTenantCode": "ap.visakhapatnam",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 83.2185,
+        "latitude": 17.6868,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "109",
+        "ddrName": "DDR D"
+      },
+      "address": "visakhapatnam Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "ap.nellore",
+      "name": "nellore",
+      "description": null,
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "nellore@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "nellore",
+        "localName": null,
+        "districtCode": "nellore",
+        "districtName": null,
+        "districtTenantCode": "ap.nellore",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 79.9865,
+        "latitude": 14.4426,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "110",
+        "ddrName": "DDR E"
+      },
+      "address": "nellore Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "ap",
+      "name": "State",
+      "description": "State",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "pg.state@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "State",
+        "localName": "Demo State",
+        "districtCode": "0",
+        "districtName": "State",
+        "districtTenantCode": "ap",
+        "regionName": "State",
+        "ulbGrade": "ST",
+        "longitude": 75.3412,
+        "latitude": 31.1471,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "0",
+        "ddrName": null
+      },
+      "address": "State Municipal Corporation",
+      "contactNumber": "0978-7645345"
+    }
+   ]
+}
