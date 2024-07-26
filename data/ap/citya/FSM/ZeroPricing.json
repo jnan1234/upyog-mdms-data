@@ -1,9 +1,0 @@
-{
-    "tenantId": "ap.anantapur",
-    "moduleName": "FSM",
-    "zeroPricing": [
-        {
-            "zeroPricingStatus": true
-        }
-    ]
-}
