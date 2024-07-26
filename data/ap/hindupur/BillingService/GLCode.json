@@ -1,0 +1,16 @@
+{
+    "tenantId": "ap.hindupur",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "ap.hindupur"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "ap.hindupur"
+        }
+    ]
+}

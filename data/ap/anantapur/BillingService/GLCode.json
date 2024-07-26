@@ -1,0 +1,17 @@
+{
+    "tenantId": "ap.anantapur",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "ap.anantapur"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "ap.anantapur"
+        }
+    ]
+    
+}
